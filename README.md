@@ -1,8 +1,9 @@
 > *Costs below are provided as guidelines and do not include currency conversions, taxes, applicable membership rates or any other deals.*
 
-$ means < $100.
-$$ means $100\-$1000.
-$$$ means > $1000.
+| $     | $$    | $$$  |
+| ----- | ----- | -----|
+| less than $100 | $100 - $1000 | more than $1000 |
+
 
 # This Month
 
