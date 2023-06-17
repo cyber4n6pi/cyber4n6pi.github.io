@@ -6,20 +6,16 @@ Also, check out the **Tactical Cyber** Telegram Group.  Updates for events will 
 
 # What's Inside
 
-## Tactical Cyber Training
++ Calendar of Events
++ Resources
++ Other Useful Links
+
+****
+****
+
+# Calendar of Events
 List of upcoming webinars, summits and other training opportunities.  Some are free (!!), some are paid, and some will require membership before you can attend or register (i.e. SANS events).
 
-## Resources
-PAGE IS CURRENTLY UNDER CONSTRUCTION.
-
-List of organizations and various training providers with their main web link.  The organizations typically offer memberships, training and free resources.  The training providers are those who regularly provided high-quality content for the cyber industry (i.e. YouTube videos, webinars, podcasts, etc.).
-
-## Other Useful Links
-PAGE IS CURRENTLY UNDER CONSTRUCTION.
-
-Links to a pile of miscellaneous info or book recommendations....cuz sharing is caring!
-
-# Tactical Cyber Training
 > *Costs below are provided as guidelines and do not include currency conversions, taxes, applicable membership rates or any other deals.*
 
 ### Cost Guide
@@ -45,7 +41,11 @@ Links to a pile of miscellaneous info or book recommendations....cuz sharing is 
 | Sept 18-21    | CrowdStrike\'s Fal\.con | Live - In Person  | $$$ | Las Vegas, Nevada    | [More info](https://www.crowdstrike.com/events/fal-con/?utm_campaign=fal-con&utm_content=117231_em3falcon2023ams-new-pcta&utm_medium=emc&utm_source=mkto)
 
 # Resources
-Coming Soon!
+List of organizations and various training providers with their main web link.  The organizations typically offer memberships, training and free resources.  The training providers are those who regularly provided high-quality content for the cyber industry (i.e. YouTube videos, webinars, podcasts, etc.).
+
+### Coming Soon!
 
 # Other Useful Links
-Coming Soon!
+Links to a pile of miscellaneous info or book recommendations....cuz sharing is caring!
+
+### Coming Soon!
