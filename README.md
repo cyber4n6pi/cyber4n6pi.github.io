@@ -50,6 +50,7 @@ The organizations typically offer memberships, training and free resources.
 The training providers are those who regularly provided high-quality content for the cyber industry (i.e. YouTube videos, webinars, podcasts, etc.).
 
 ### Organizations
+
 | Organization   | Features              | Link        |
 | ------------- | ---------------------- | ----------- |
 | SANS  | Membership, Training, Certifications | [More info](https://www.sans.org/)
