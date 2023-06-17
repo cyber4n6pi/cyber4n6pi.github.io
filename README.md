@@ -6,11 +6,11 @@ Also, check out the **Tactical Cyber** Telegram Group.  Updates for events will 
 
 # What's Inside
 
-## Tactical Cyber Training
+## [Tactical Cyber Training](https://github.com/cyber4n6pi/cyber4n6pi.github.io/blob/main/Training)
 List of upcoming webinars, summits and other training opportunities.  Some are free (!!), some are paid, and some will require membership before you can attend or register (i.e. SANS events).
 
-## Resources
+## Resources (currently under construction)
 List of organizations and various training providers with their main web link.  The organizations typically offer memberships, training and free resources.  The training providers are those who regularly provided high-quality content for the cyber industry (i.e. YouTube videos, webinars, podcasts, etc.).
 
-# Other Useful Links
+# Other Useful Links (currently under construction)
 Links to a pile of miscellaneous info or book recommendations....cuz sharing is caring!
