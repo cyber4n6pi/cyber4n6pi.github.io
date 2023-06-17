@@ -18,7 +18,7 @@ List of upcoming webinars, summits and other training opportunities.  Some are f
 
 > *An idea of the cost is indicated by the number of dollar-signs.  When registering, keep in mind any currency conversions, taxes, applicable membership discounts or any other deals.*
 > 
-> Even if you've missed an event, check the registration website for links to the recorded material.
+> Even if you've missed an event, check the registration website - there may be links to recorded material.
 
 
 ## This Month
