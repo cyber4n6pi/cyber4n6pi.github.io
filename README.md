@@ -23,7 +23,7 @@ Links to a pile of miscellaneous info or book recommendations....cuz sharing is 
 > *Costs below are provided as guidelines and do not include currency conversions, taxes, applicable membership rates or any other deals.*
 
 ### Cost Guide
-| $       | $$      | $$$    |
+| \$       | \$\$      | \$\$\$    |
 | :-----: | :-----: | :-----:|
 | less than $100 | $100 - $1000 | more than $1000 |
 
