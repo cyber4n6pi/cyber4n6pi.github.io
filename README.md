@@ -2,7 +2,7 @@
 
 There are some great GitHub pages listing training, labs and events for the cyber industry.  This repo will focus on **Digital Forensics**, **Blockchain**, **Investigations**, **OSINT** and **Fraud** (with a shout-out to other resources as I come across them).
 
-Also, check out the **Tactical Cyber** Telegram Group.  Updates for events will be posted as they land in my inbox.  Turn on notifications so you get an easy reminder for new content.
+Also, check out the [**Tactical Cyber** Telegram Group](https://t.me/+BF2AyV6TVctmOTgx).  Updates for events will be posted as they land in my inbox.  Turn on notifications so you get an easy reminder for new content.
 
 # What's Inside
 
