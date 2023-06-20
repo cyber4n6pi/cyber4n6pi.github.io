@@ -41,7 +41,7 @@ List of upcoming webinars, summits and other training opportunities.  Some are f
 | Aug 15-16  | Blockchain Futurist Conference | Live - In Person  | Free,$,$$ | Toronto, Canada | [More info](https://www.futuristconference.com/)
 | Sept 18-21    | CrowdStrike\'s Fal\.con | Live - In Person  | $$$ | Las Vegas, Nevada    | [More info](https://www.crowdstrike.com/events/fal-con/?utm_campaign=fal-con&utm_content=117231_em3falcon2023ams-new-pcta&utm_medium=emc&utm_source=mkto)
 | Sept 22    | SANS OSINT Summit 2023 | Live - Online  | Free | Online   | [More info](https://www.sans.org/cyber-security-training-events/osint-summit-2023/?utm_medium=Email&utm_source=HL-GL&utm_content=1247407%20CC%200623%20Cyber%20Defense%20OSINT%20Summit%20Register%20Now%20Button&utm_campaign=Curriculum%20Community&is=907434d01a6d13f922c74eb65dc4c055eb797ed2b47afae8df98363a6bf84867)
-| Oct 15-17    | OsmosisCon OSINT Conference | Live - In Person & Live - Online  | $$ and $$$ | New Orleans, LA | [More info](https://osmosiscon.com/)
+| Oct 15-17    | OsmosisCon OSINT Conference | Live - In Person & Live - Online  | $$$ | New Orleans, LA | [More info](https://osmosiscon.com/)
 
 ****
 
