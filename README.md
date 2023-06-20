@@ -41,6 +41,9 @@ List of upcoming webinars, summits and other training opportunities.  Some are f
 | Aug 15-16  | Blockchain Futurist Conference | Live - In Person  | Free,$,$$ | Toronto, Canada | [More info](https://www.futuristconference.com/)
 | Sept 18-21    | CrowdStrike\'s Fal\.con | Live - In Person  | $$$ | Las Vegas, Nevada    | [More info](https://www.crowdstrike.com/events/fal-con/?utm_campaign=fal-con&utm_content=117231_em3falcon2023ams-new-pcta&utm_medium=emc&utm_source=mkto)
 | Sept 22    | SANS OSINT Summit 2023 | Live - Online  | Free | Online   | [More info](https://www.sans.org/cyber-security-training-events/osint-summit-2023/?utm_medium=Email&utm_source=HL-GL&utm_content=1247407%20CC%200623%20Cyber%20Defense%20OSINT%20Summit%20Register%20Now%20Button&utm_campaign=Curriculum%20Community&is=907434d01a6d13f922c74eb65dc4c055eb797ed2b47afae8df98363a6bf84867)
+| Oct 15-17    | OsmosisCon OSINT Conference | Live - In Person & Live - Online  | $$ & $$$ | New Orleans, LA | [More info](https://osmosiscon.com/)
+
+****
 
 # Resources
 List of organizations and various training providers with their main web link.
@@ -51,13 +54,46 @@ The training providers are those who regularly provided high-quality content for
 
 ### Organizations
 
-| Organization   | Features              | Link        |
-| ------------- | ---------------------- | ----------- |
-| SANS  | Membership, Training, Certifications | [More info](https://www.sans.org/)
+| Organization   | Focus   | Features              | Link        |
+| ------------- | -------- | --------------------- | ----------- |
+| ACEDS  | E-Discovery | Membership, Training, Certifications | [More info](https://aceds.org/)
+| ACFE (Int'l)  | Fraud | Membership, Training, Certifications | [More info](https://www.acfe.com)
+| ACFI (Canada)  | Fraud | Membership, Training, Certifications | [More info](https://www.acfi.ca)
+| Chainalysis  | Blockchain | Training, Tools | [More info](https://www.chainalysis.com/)
+| Magnet Forensics  | Digital Data handling | Training, Tools | [More info](https://www.magnetforensics.com/)
+| SANS  | All things InfoSec | Membership, Training, Certifications | [More info](https://www.sans.org/)
+
+
+### Training Providers
+
+| Source        | Typical Format   | Topic Areas  | Features     | Link        |
+| ------------- | ---------------- | ------------ | ------------ | ----------- |
+| BHIS  | Webcasts |  various  | Usually about 1 hr, lots of fun! | [More info](https://www.blackhillsinfosec.com/)
+| Henrique Centieiro (Udemy)  | On Demand | Blockchain | Easy to follow, accurate info | [More info](https://www.udemy.com/user/henrique-246/)
+| TCM Security Academy | On Demand | PenTesting, OSINT & more | Support via Discord, Discounts avail. | [More info](https://academy.tcm-sec.com/)
 
 ****
 
 # Other Useful Links
 Links to a pile of miscellaneous info or book recommendations....cuz sharing is caring!
 
-### Coming Soon!
+### Books
+
+**Blockchain Basics:  A Non-Technical Introduction in 25 Steps**, *Daniel Drescher* (Apress)  
+If you're new to Blockchain (i.e. infrastructure, terminology, function, use cases, etc.), this is THE perfect book to get you started in the right direction.  Lots of examples and analogies, organized and well-written.  
+*Available in a variety of formats on Amazon*
+
+**The Code Book:  The Science of Secrecy from Ancient Egypt to Quantum Cryptography**, *Simon Singh* (Anchor)  
+Extremely well-written book on the history of cryptography, complete with side stories, insights, puzzles and humour.  If only all history books were written this well!  
+*Available in a variety of formats on Amazon*
+
+### Techy People to Follow
+
+**Bruce Schneier**  
+I don't think he's the official "Godfather of Security" but he should be!!  He has books, blogs podcasts and some real-life interesting stories.  
+  Schneier on Security webpage:  https://www.schneier.com
+
+**John Hammond** (*no, not the character from Jurassic Park!!*)  
+He's literally everywhere but you can start your search for his content on YouTube (@_JohnHammond).
+  YouTube Channel:  https://www.youtube.com/@_JohnHammond
+
