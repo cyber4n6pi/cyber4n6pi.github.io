@@ -29,7 +29,8 @@ List of upcoming webinars, summits and other training opportunities.  Some are f
 | June 15 | BHIS Hacking Failures with Corey Ham | Live - Online  | Free | Online  | [More info](https://zoom.us/webinar/register/WN_CGTnu448SWiyNhu6x4At7w#/registration)
 | June 15 | HG Stolen Asset Investigations | Live - Online  | $ | Online | [More info](https://www.hetheringtongroup.com/training/webinars/)
 | June 20       | CQURE 8-Hr Live Event Workshop    | Live - Online  | $$       | Online            | [More info](https://cqureacademy.com/cyber-security-training/implementing-privileged-access-workstations#register-course)
-| June 22       | SANS Unlocking Digital Mysteries: Password Cracking webinar | Live - Online  | Free  | Online            | [More info](https://www.sans.org/webcasts/unlocking-digital-mysteries-password-cracking-osint-forensic-investigations/?utm_medium=Email&utm_source=HL-GL&utm_content=CC%200623%20Cyber%20Defense%20OSINT%20Register%20for%20Workshop%20Button&utm_campaign=Curriculum%20Community&is=907434d01a6d13f922c74eb65dc4c055eb797ed2b47afae8df98363a6bf84867)
+| June 22       | SANS Unlocking Digital Mysteries: Password Cracking webinar | Live - Online  | Free  | Online            | [More info](https://www.sans.org/webcasts/unlocking-digital-mysteries-password-cracking-osint-forensic-investigations)
+| June 29       | Elliptic Emerging Crypto Crime Typologies & How to Uncover Them webinar | Live - Online  | Free  | Online            | [More info](https://www.elliptic.co/webinars-events/typologies-webinar-2023)
 
 ****
 
@@ -37,10 +38,10 @@ List of upcoming webinars, summits and other training opportunities.  Some are f
 
 | Dates         | Event                             | Type              | Cost     | Location          | Link        |
 | ------------- | --------------------------------- | ----------------- | :------: | ----------------- | ----------- |
-| Aug 3-4  | SANS DFIR Summit | Live - Online & Live - In Person  | Free & $$ | Online & Austin, TX | [More info](https://www.sans.org/cyber-security-training-events/digital-forensics-summit-2023/?utm_medium=Email&utm_source=Newsbites&utm_content=NBvol25no48%20NA%20Other&utm_campaign=digital%20forensics%20summit%202023)
+| Aug 3-4  | SANS DFIR Summit | Live - Online & Live - In Person  | Free & $$ | Online & Austin, TX | [More info](https://www.sans.org/cyber-security-training-events/digital-forensics-summit-2023)
 | Aug 15-16  | Blockchain Futurist Conference | Live - In Person  | Free,$,$$ | Toronto, Canada | [More info](https://www.futuristconference.com/)
-| Sept 18-21    | CrowdStrike\'s Fal\.con | Live - In Person  | $$$ | Las Vegas, Nevada    | [More info](https://www.crowdstrike.com/events/fal-con/?utm_campaign=fal-con&utm_content=117231_em3falcon2023ams-new-pcta&utm_medium=emc&utm_source=mkto)
-| Sept 22    | SANS OSINT Summit 2023 | Live - Online  | Free | Online   | [More info](https://www.sans.org/cyber-security-training-events/osint-summit-2023/?utm_medium=Email&utm_source=HL-GL&utm_content=1247407%20CC%200623%20Cyber%20Defense%20OSINT%20Summit%20Register%20Now%20Button&utm_campaign=Curriculum%20Community&is=907434d01a6d13f922c74eb65dc4c055eb797ed2b47afae8df98363a6bf84867)
+| Sept 18-21    | CrowdStrike\'s Fal\.con | Live - In Person  | $$$ | Las Vegas, Nevada    | [More info](https://www.crowdstrike.com/events/fal-con)
+| Sept 22    | SANS OSINT Summit 2023 | Live - Online  | Free | Online   | [More info](https://www.sans.org/cyber-security-training-events/osint-summit-2023)
 | Oct 15-17    | OsmosisCon OSINT Conference | Live - In Person & Live - Online  | $$$ | New Orleans, LA | [More info](https://osmosiscon.com/)
 
 ****
