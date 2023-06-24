@@ -38,11 +38,15 @@ List of upcoming webinars, summits and other training opportunities.  Some are f
 
 | Dates         | Event                             | Type              | Cost     | Location          | Link        |
 | ------------- | --------------------------------- | ----------------- | :------: | ----------------- | ----------- |
+| Aug 1  | BSides Ottawa EarlyBird Deadline | Live - In Person  | Free & $ | Ottawa, Canada | [More info](https://bsidesottawa.ca/)
 | Aug 3-4  | SANS DFIR Summit | Live - Online & Live - In Person  | Free & $$ | Online & Austin, TX | [More info](https://www.sans.org/cyber-security-training-events/digital-forensics-summit-2023)
 | Aug 15-16  | Blockchain Futurist Conference | Live - In Person  | Free,$,$$ | Toronto, Canada | [More info](https://www.futuristconference.com/)
 | Sept 18-21    | CrowdStrike\'s Fal\.con | Live - In Person  | $$$ | Las Vegas, Nevada    | [More info](https://www.crowdstrike.com/events/fal-con)
 | Sept 22    | SANS OSINT Summit 2023 | Live - Online  | Free | Online   | [More info](https://www.sans.org/cyber-security-training-events/osint-summit-2023)
 | Oct 15-17    | OsmosisCon OSINT Conference | Live - In Person & Live - Online  | $$$ | New Orleans, LA | [More info](https://osmosiscon.com/)
+| Oct 26-27  | BSides Conference Ottawa | Live - In Person  | Free & $ | Ottawa, Canada | [More info](https://bsidesottawa.ca/)
+
+> **BSides** has TONS of events around the world throughout the year - check out their full list for a conference near you on the BSides Community page at http://www.securitybsides.com/w/page/12194156/FrontPage.
 
 ****
 
