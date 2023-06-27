@@ -40,6 +40,7 @@ List of upcoming webinars, summits and other training opportunities.  Some are f
 | ------------- | --------------------------------- | ----------------- | :------: | ----------------- | ----------- |
 | Aug 1  | BSides Ottawa EarlyBird Deadline | Live - In Person  | Free & $ | Ottawa, Canada | [More info](https://bsidesottawa.ca/)
 | Aug 3-4  | SANS DFIR Summit | Live - Online & Live - In Person  | Free & $$ | Online & Austin, TX | [More info](https://www.sans.org/cyber-security-training-events/digital-forensics-summit-2023)
+| Aug 9  | QuSecure Webinar (Securing Financial Services in AI & Quantum Age) | Live - Online  | Free | Online | [More info](https://www.qusecure.com/securing-financial-services-in-the-quantum-and-ai-age-insights-into-post-quantum-cryptography/)
 | Aug 15-16  | Blockchain Futurist Conference | Live - In Person  | Free,$,$$ | Toronto, Canada | [More info](https://www.futuristconference.com/)
 | Sept 18-21    | CrowdStrike\'s Fal\.con | Live - In Person  | $$$ | Las Vegas, Nevada    | [More info](https://www.crowdstrike.com/events/fal-con)
 | Sept 22    | SANS OSINT Summit 2023 | Live - Online  | Free | Online   | [More info](https://www.sans.org/cyber-security-training-events/osint-summit-2023)
